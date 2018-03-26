@@ -1,0 +1,45 @@
+.header {
+  background-color: #007BFF;
+  height: 50px;
+  margin-top: 8px; }
+
+.input2 {
+  background-color: #007BFF;
+  color: white; }
+
+#chemin {
+  color: #007BFF;
+  font-weight: 600;
+  font-family: cursive; }
+
+#back {
+  color: white;
+  font-weight: 600;
+  border: 1px solid white;
+  font-family: cursive; }
+
+.clique {
+  border: 1px solid black;
+  margin-top: 3px;
+  border-radius: 24px;
+  background-color: white; }
+
+.section1 {
+  margin-bottom: 30px; }
+
+body {
+  color: #007BFF;
+  font-weight: 600;
+  font-family: cursive;
+  background-color: #007BFF;
+  margin-bottom: 10px; }
+
+.footer {
+  background-color: #007BFF;
+  position: fixed;
+  bottom: 0; }
+
+#date {
+  color: white; }
+
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,21 @@
+// Amelioration des attributs css
+.header {
+    background-color: $bg;
+    height: 50px;
+    margin-top: 8px;
+}
+.input2 {
+    background-color: $bg;
+    color: $fontwhite;
+}
+#chemin {
+    color : #007BFF;
+    font-weight: 600;
+    font-family: cursive;
+}
+#back {
+    color : $fontwhite;
+    font-weight: 600;
+    border: 1px solid $fontwhite;
+    font-family: cursive;
+}
